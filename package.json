@@ -13,5 +13,5 @@
     "node": ">=0.10.0"
   },
   "repository": "aoffpo/host-volumes",
-   "license": "MIT"
+  "license": "MIT"
 }
