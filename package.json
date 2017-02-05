@@ -1,0 +1,17 @@
+{
+  "name": "host-volumes",
+  "version": "0.0.1",
+  "description": "Setup host fs, etc before running docker-compose",
+  "author": "Munxie, LLC",
+  "main": "app.js" ,
+  "files": [ "app.js" ],
+  "dependencies": {
+    "shelljs": "^0.7.6",
+    "yamljs": "^0.2.8"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": "aoffpo/host-volumes",
+   "license": "MIT"
+}
